@@ -1,4 +1,9 @@
 amapa
 =====
 
-An RSS reader
+An html stack
+
+To do:
+
+- Router
+- Call other code
